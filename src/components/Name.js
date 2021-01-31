@@ -1,5 +1,5 @@
 function Name() {
-  const name = 28;
+  const name = 'Vahagn';
   return (
     <div>
       <p>Name is: {name}</p>
