@@ -1,8 +1,8 @@
 function LastName() {
-  const age = 28;
+  const lastName = 'Davtyan';
   return (
     <div>
-      <p>LastName is: {age}</p>
+      <p>LastName is: {lastName}</p>
     </div>
   );
 }
